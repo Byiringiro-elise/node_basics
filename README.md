@@ -9,6 +9,12 @@ A React + Vite project covering all 5 parts of the JavaScript assignment.
 4. Simple Calculator – addition, subtraction, multiplication, division
 5. To-Do List – add, remove, mark complete (bonus: progress bar)
 
+  ** sample screenshoots**
+  <img width="1307" height="609" alt="image" src="https://github.com/user-attachments/assets/aa19f522-c9ea-4639-8dbf-b8bcb83334dd" />
+  <img width="1120" height="381" alt="image" src="https://github.com/user-attachments/assets/72d67d3d-6c5c-4239-8e41-3b83d51819ae" />
+
+
+
 ## How to Run
 
 ### Prerequisites
